@@ -1,4 +1,4 @@
-:fr: I grew up in Paris, France. I moved to the US :us: at 18 and haven't left (yet). 
+:fr: I grew up in Paris, France. I moved to the US :us: at 18 y/o and haven't left (yet). 
 
 :book: In 2020, I completed my PhD thesis on the use of deep neural networks for image and video super-resolution problems. 
 
